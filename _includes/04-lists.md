@@ -4,5 +4,5 @@
 - Microsoft 
 - Dell
 - Amazon
-- :smile:
+- Linkdein
 
