@@ -1,1 +1,11 @@
-_css_ __html5__    *javascript*   **web designing**
+__My skills are:__
+<br>
+<br>
+_css_
+<br>
+<br>
+ __html5__    
+<br>
+*javascript*  
+<br>
+ **web**  *designing*
