@@ -2,23 +2,15 @@
 layout: default
 ---
 
-
-:sparkles
-
-
-
-
-:smile:
+- {% include 01-name.md %}
 <br>
 
-
-:smile:
+- {% include 02-image.md %}
 
 <br>
 
-
-:tada:
+- {% include 03-links.md %}
 <br>
 
 
-:sparkles:
+
